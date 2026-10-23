@@ -1,5 +1,7 @@
 # Slovak Air Quality Dashboard
 
+![Air Quality station observations](assets/overview-2026-10-24.png)
+
 A single pollution reading is hard to interpret without knowing the station, time and surrounding history. This dashboard brings Slovakia's monitoring-station readings into a searchable board and geographic map, helping users explore where a measurement comes from and how it has changed.
 
 ## Tech stack
@@ -11,6 +13,9 @@ A single pollution reading is hard to interpret without knowing the station, tim
 ## Start with the current picture
 
 The overview groups available station readings with their observation times. Quality bands help users scan the information before opening a more detailed view. Sorting, filtering and paging keep a larger monitoring network manageable.
+
+
+![Air Quality summary charts](assets/overview-chart-2026-10-24.png)
 
 ## Find a station on the map
 
